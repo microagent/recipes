@@ -24,7 +24,7 @@ function marinaraSauce(cookName) {
   console.log(
     "- Stir in " +
       oneForth +
-      " cup roughly chopped fresh basil, salt and pepper as needed."
+      " cup roughly chopped fresh basil, salt and pepper as needed, please."
   );
 }
 
